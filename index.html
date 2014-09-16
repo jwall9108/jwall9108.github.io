@@ -70,5 +70,13 @@ $ git checkout gh-pages
 
     
 
+
+xmlDoc=loadXMLDoc("books.xml");
+
+newel=xmlDoc.createElement("edition");
+
+x=xmlDoc.getElementsByTagName("book")[0];
+x.appendChild(newel);
+
   </body>
 </html>
