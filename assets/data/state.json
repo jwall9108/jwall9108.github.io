@@ -1,0 +1,222 @@
+[
+  {
+    "state": "16-IDAHO",
+    "weight": 1.2875
+  },
+  {
+    "state": "RO-ROMANIA",
+    "weight": 1.0875
+  },
+  {
+    "state": "08-COLORADO",
+    "weight": 1.0225
+  },
+  {
+    "state": "20-KANSAS",
+    "weight": 1.0125
+  },
+  {
+    "state": "40-OKLAHOMA",
+    "weight": 1.001785714
+  },
+  {
+    "state": "GR-GREECE",
+    "weight": 0.996428571
+  },
+  {
+    "state": "01-ALABAMA",
+    "weight": 0.983333333
+  },
+  {
+    "state": "39-OHIO",
+    "weight": 0.977083333
+  },
+  {
+    "state": "CQ-NORTHERN MARIANA ISLANDS",
+    "weight": 0.975
+  },
+  {
+    "state": "GM-GERMANY",
+    "weight": 0.970833333
+  },
+  {
+    "state": "28-MISSISSIPPI",
+    "weight": 0.960431655
+  },
+  {
+    "state": "24-MARYLAND",
+    "weight": 0.948464912
+  },
+  {
+    "state": "23-MAINE",
+    "weight": 0.94369469
+  },
+  {
+    "state": "11-DISTRICT OF COLUMBIA",
+    "weight": 0.941892523
+  },
+  {
+    "state": "37-NORTH CAROLINA",
+    "weight": 0.941784703
+  },
+  {
+    "state": "49-UTAH",
+    "weight": 0.941666667
+  },
+  {
+    "state": "CU-CUBA",
+    "weight": 0.941554054
+  },
+  {
+    "state": "US-SUPPRESSED (SEE DATA DEFINITIONS)",
+    "weight": 0.940509554
+  },
+  {
+    "state": "42-PENNSYLVANIA",
+    "weight": 0.939489954
+  },
+  {
+    "state": "04-ARIZONA",
+    "weight": 0.939
+  },
+  {
+    "state": "51-VIRGINIA",
+    "weight": 0.938380282
+  },
+  {
+    "state": "BA-BAHRAIN",
+    "weight": 0.938297872
+  },
+  {
+    "state": "53-WASHINGTON",
+    "weight": 0.937966175
+  },
+  {
+    "state": "44-RHODE ISLAND",
+    "weight": 0.937771003
+  },
+  {
+    "state": "06-CALIFORNIA",
+    "weight": 0.937490886
+  },
+  {
+    "state": "18-INDIANA",
+    "weight": 0.937073379
+  },
+  {
+    "state": "13-GEORGIA",
+    "weight": 0.936378205
+  },
+  {
+    "state": "RQ-PUERTO RICO",
+    "weight": 0.936363636
+  },
+  {
+    "state": "15-HAWAII",
+    "weight": 0.934507042
+  },
+  {
+    "state": "12-FLORIDA",
+    "weight": 0.93421522
+  },
+  {
+    "state": "47-TENNESSEE",
+    "weight": 0.933695652
+  },
+  {
+    "state": "34-NEW JERSEY",
+    "weight": 0.933641975
+  },
+  {
+    "state": "IT-ITALY",
+    "weight": 0.933
+  },
+  {
+    "state": "32-NEVADA",
+    "weight": 0.9328125
+  },
+  {
+    "state": "45-SOUTH CAROLINA",
+    "weight": 0.931844106
+  },
+  {
+    "state": "09-CONNECTICUT",
+    "weight": 0.92972561
+  },
+  {
+    "state": "55-WISCONSIN",
+    "weight": 0.928125
+  },
+  {
+    "state": "GQ-GUAM",
+    "weight": 0.926953125
+  },
+  {
+    "state": "JA-JAPAN",
+    "weight": 0.921027132
+  },
+  {
+    "state": "17-ILLINOIS",
+    "weight": 0.920072115
+  },
+  {
+    "state": "KS-KOREA, REPUBLIC OF",
+    "weight": 0.9125
+  },
+  {
+    "state": "48-TEXAS",
+    "weight": 0.912157534
+  },
+  {
+    "state": "22-LOUISIANA",
+    "weight": 0.91125
+  },
+  {
+    "state": "SP-SPAIN",
+    "weight": 0.898295455
+  },
+  {
+    "state": "SN-SINGAPORE",
+    "weight": 0.896590909
+  },
+  {
+    "state": "31-NEBRASKA",
+    "weight": 0.885
+  },
+  {
+    "state": "PO-PORTUGAL",
+    "weight": 0.875
+  },
+  {
+    "state": "25-MASSACHUSETTS",
+    "weight": 0.866071429
+  },
+  {
+    "state": "35-NEW MEXICO",
+    "weight": 0.864285714
+  },
+  {
+    "state": "29-MISSOURI",
+    "weight": 0.844642857
+  },
+  {
+    "state": "19-IOWA",
+    "weight": 0.825
+  },
+  {
+    "state": "36-NEW YORK",
+    "weight": 0.8234375
+  },
+  {
+    "state": "41-OREGON",
+    "weight": 0.8
+  },
+  {
+    "state": "05-ARKANSAS",
+    "weight": 0.7875
+  },
+  {
+    "state": "27-MINNESOTA",
+    "weight": 0.775
+  }
+]

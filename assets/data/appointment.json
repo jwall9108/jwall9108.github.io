@@ -1,0 +1,54 @@
+[
+  {
+    "appointment": "**-Unspecified",
+    "weight": 1.175
+  },
+  {
+    "appointment": "55-Senior Executive Service - Non-Career",
+    "weight": 1
+  },
+  {
+    "appointment": "50-Senior Executive Service - Career",
+    "weight": 0.898214286
+  },
+  {
+    "appointment": "48-Excepted Service - Other",
+    "weight": 0.957627119
+  },
+  {
+    "appointment": "45-Excepted Service - Schedule D",
+    "weight": 0.945090439
+  },
+  {
+    "appointment": "44-Excepted Service - Schedule C",
+    "weight": 1.0875
+  },
+  {
+    "appointment": "40-Excepted Service - Schedule A",
+    "weight": 0.937306452
+  },
+  {
+    "appointment": "38-Excepted Service - Other",
+    "weight": 0.931210021
+  },
+  {
+    "appointment": "35-Excepted Service - Schedule D",
+    "weight": 0.948042506
+  },
+  {
+    "appointment": "30-Excepted Service - Schedule A",
+    "weight": 0.945
+  },
+  {
+    "appointment": "20-Competitive Service",
+    "weight": 0.935800971
+  },
+  {
+    "appointment": "15-Competitive Service - Career-Conditional",
+    "weight": 0.937443682
+  },
+  {
+    "appointment": "10-Competitive Service - Career",
+    "weight": 0.93671875
+  }
+]

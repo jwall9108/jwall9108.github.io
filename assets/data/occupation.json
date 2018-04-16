@@ -1,0 +1,226 @@
+[
+  {
+    "occupation": "99xx-VESSEL JOBS EXCLUDED FROM FED WAGE SYS",
+    "weight": 0.950373134
+  },
+  {
+    "occupation": "88xx-AIRCRAFT OVERHAUL",
+    "weight": 0.928125
+  },
+  {
+    "occupation": "86xx-ENGINE OVERHAUL",
+    "weight": 0.875
+  },
+  {
+    "occupation": "82xx-FLUID SYSTEMS MAINTENANCE",
+    "weight": 0.953125
+  },
+  {
+    "occupation": "74xx-FOOD PREPARATION AND SERVING",
+    "weight": 0.8875
+  },
+  {
+    "occupation": "73xx-LAUNDRY, DRY CLEANING, AND PRESSING",
+    "weight": 1.025
+  },
+  {
+    "occupation": "70xx-PACKING AND PROCESSING",
+    "weight": 0.895833333
+  },
+  {
+    "occupation": "69xx-WAREHOUSING AND STOCK HANDLING",
+    "weight": 0.94375
+  },
+  {
+    "occupation": "66xx-ARMAMENT WORK",
+    "weight": 0.96875
+  },
+  {
+    "occupation": "65xx-AMMO, EXPLOSIVES, &TOXIC MATERIALS WORK",
+    "weight": 1.096428571
+  },
+  {
+    "occupation": "58xx-TRANSPORT/MOBILE EQUIPMENT MAINTENANCE",
+    "weight": 0.948387097
+  },
+  {
+    "occupation": "57xx-TRANSPORT/MOBILE EQUIPMENT OPERATION",
+    "weight": 0.930025773
+  },
+  {
+    "occupation": "54xx-INDUSTRIAL EQUIPMENT OPERATION",
+    "weight": 0.956707317
+  },
+  {
+    "occupation": "53xx-INDUSTRIAL EQUIPMENT MAINTENANCE",
+    "weight": 0.932304786
+  },
+  {
+    "occupation": "52xx-MISCELLANEOUS OCCUPATIONS",
+    "weight": 0.930844156
+  },
+  {
+    "occupation": "50xx-PLANT AND ANIMAL WORK",
+    "weight": 0.934375
+  },
+  {
+    "occupation": "48xx-GENERAL EQUIPMENT MAINTENANCE",
+    "weight": 0.89375
+  },
+  {
+    "occupation": "47xx-GENERAL MAINTENANCE AND OPERATIONS WORK",
+    "weight": 0.940931373
+  },
+  {
+    "occupation": "46xx-WOOD WORK",
+    "weight": 0.924166667
+  },
+  {
+    "occupation": "43xx-PLIABLE MATERIALS WORK",
+    "weight": 0.941509434
+  },
+  {
+    "occupation": "42xx-PLUMBING AND PIPEFITTING",
+    "weight": 0.94618984
+  },
+  {
+    "occupation": "41xx-PAINTING AND PAPERHANGING",
+    "weight": 0.944772727
+  },
+  {
+    "occupation": "40xx-LENS AND CRYSTAL WORK",
+    "weight": 0.904166667
+  },
+  {
+    "occupation": "38xx-METAL WORK",
+    "weight": 0.941707921
+  },
+  {
+    "occupation": "37xx-METAL PROCESSING",
+    "weight": 0.943930288
+  },
+  {
+    "occupation": "36xx-STRUCTURAL AND FINISHING WORK",
+    "weight": 0.894772727
+  },
+  {
+    "occupation": "35xx-GENERAL SERVICES AND SUPPORT WORK",
+    "weight": 0.9414
+  },
+  {
+    "occupation": "34xx-MACHINE TOOL WORK",
+    "weight": 0.926495726
+  },
+  {
+    "occupation": "33xx-INSTRUMENT WORK",
+    "weight": 0.94140625
+  },
+  {
+    "occupation": "31xx-FABRIC AND LEATHER WORK",
+    "weight": 0.894078947
+  },
+  {
+    "occupation": "28xx-ELECTRICAL INSTALLATION AND MAINTENANCE",
+    "weight": 0.952162757
+  },
+  {
+    "occupation": "26xx-ELECTRONIC EQUIP. INSTALLTN & MAINTNCE",
+    "weight": 0.959461806
+  },
+  {
+    "occupation": "25xx-WIRE COMM. EQUIP. INSTALLTN & MAINTNCE",
+    "weight": 0.886458333
+  },
+  {
+    "occupation": "22xx-INFORMATION TECHNOLOGY",
+    "weight": 0.933269764
+  },
+  {
+    "occupation": "21xx-TRANSPORTATION",
+    "weight": 0.925548246
+  },
+  {
+    "occupation": "20xx-SUPPLY",
+    "weight": 0.94355916
+  },
+  {
+    "occupation": "19xx-QUALITY ASSURANCE, INSPECTION, & GRADING",
+    "weight": 0.953424658
+  },
+  {
+    "occupation": "18xx-INVESTIGATION",
+    "weight": 0.944387755
+  },
+  {
+    "occupation": "17xx-EDUCATION",
+    "weight": 0.918127706
+  },
+  {
+    "occupation": "16xx-EQUIPMENT",
+    "weight": "FACILITIES"
+  },
+  {
+    "occupation": "15xx-MATHEMATICS AND STATISTICS",
+    "weight": 0.945795247
+  },
+  {
+    "occupation": "14xx-LIBRARY AND ARCHIVES",
+    "weight": 0.964130435
+  },
+  {
+    "occupation": "13xx-PHYSICAL SCIENCES",
+    "weight": 0.932860111
+  },
+  {
+    "occupation": "12xx-COPYRIGHT",
+    "weight": "PATENT"
+  },
+  {
+    "occupation": "11xx-BUSINESS AND INDUSTRY",
+    "weight": 0.938311464
+  },
+  {
+    "occupation": "10xx-INFORMATION AND ARTS",
+    "weight": 0.934075342
+  },
+  {
+    "occupation": "09xx-LEGAL AND KINDRED",
+    "weight": 0.92038835
+  },
+  {
+    "occupation": "08xx-ENGINEERING AND ARCHITECTURE",
+    "weight": 0.939363305
+  },
+  {
+    "occupation": "06xx-MEDICAL",
+    "weight": "HOSPITAL"
+  },
+  {
+    "occupation": "05xx-ACCOUNTING AND BUDGET",
+    "weight": 0.95
+  },
+  {
+    "occupation": "04xx-NATURAL RESOURCES MGMT & BIO SCI GROUP",
+    "weight": 0.941463415
+  },
+  {
+    "occupation": "03xx-GENERAL ADMIN",
+    "weight": "CLERICAL"
+  },
+  {
+    "occupation": "02xx-PERSONNEL MGMT & INDUSTRIAL  RELATIONS",
+    "weight": 0.939784946
+  },
+  {
+    "occupation": "01xx-SOCIAL SCIENCE",
+    "weight": "PSYCHOLOGY"
+  },
+  {
+    "occupation": "00xx-MISCELLANEOUS OCCUPATIONS",
+    "weight": 0.93035317
+  },
+  {
+    "occupation": "",
+    "weight": 0.8875
+  }
+]
